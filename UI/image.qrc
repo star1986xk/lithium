@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ico/title.ico</file>
+    <file>ico/多选.png</file>
+    <file>ico/多选1.png</file>
+    <file>ico/单选.png</file>
+    <file>ico/单选1.png</file>
+    <file>ico/数据.png</file>
+    <file>ico/打开.png</file>
+    <file>ico/分析 数据.png</file>
+    <file>ico/图片.png</file>
+    <file>ico/上一页.png</file>
+    <file>ico/下一页.png</file>
+    <file>ico/启动.png</file>
+  </qresource>
+</RCC>
